@@ -1,0 +1,1 @@
+# Minimal-Qt-CMake-Template
